@@ -1,0 +1,10 @@
+data/
+datasets/
+models/
+*.nii
+*.nii.gz
+*.dcm
+*.pth
+*.pt
+*.h5
+__pycache__/
