@@ -1,0 +1,12 @@
+DENTAL X-RAY SEGMENTATION PROJECT
+Model: U-Net Architecture
+
+Dice Score: 0.8734
+IoU: 0.7892
+Precision: 0.8956
+Recall: 0.8621
+F1-Score: 0.8785
+Pixel Accuracy: 0.9456
+Sensitivity: 0.8621
+Specificity: 0.9612
+Hausdorff Distance: 4.2300
